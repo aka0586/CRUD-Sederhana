@@ -23,14 +23,14 @@
                 android:id="@+id/tvTglTerbit"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Senin, 12 Maret 2018"/>
+                android:text="Senin, 20 November 2019"/>
 
             <TextView
                 android:id="@+id/tvPenulis"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="10dp"
-                android:text="Oleh : CRYTLZE" />
+                android:text="Oleh : akateam.id" />
         </LinearLayout>
 
         <WebView
